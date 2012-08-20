@@ -11,7 +11,7 @@
 			<PARAM NAME='RequestXMLElement3' VALUE=''/>
 			<PARAM NAME='RequestXMLElement4' VALUE=''/>
 			<PARAM NAME='ValuesToIgnore' VALUE=''/>
-			<PARAM NAME='RequestXMLElement5' VALUE=''/>
+			<PARAM NAME='RequestXMLElement5' VALUE='1212'/>
 			<PARAM NAME='ResponseXMLElement1' VALUE=''/>
 			<PARAM NAME='ResponseXMLElement2' VALUE=''/>
 			<PARAM NAME='ResponseXMLElement3' VALUE=''/>
