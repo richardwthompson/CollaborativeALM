@@ -1,2 +1,2 @@
-full_alm
+Collaborative ALM
 ========
