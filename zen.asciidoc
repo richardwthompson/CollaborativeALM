@@ -2,6 +2,7 @@ _Zen_ in the art of writing http://asciidoctor.org[AsciiDoc].
 
 // View this document online at http://asciidoctor.org/docs/asciidoc-writers-guide/
 = AsciiDoc Writer's Guide
+
 Dan Allen; Sarah White
 :page-layout: base
 ifdef::awestruct[]
